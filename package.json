@@ -8,6 +8,7 @@
     "babel-plugin-import": "^1.12.2",
     "craco-antd": "^1.14.1",
     "firebase": "^7.3.0",
+    "flow-bin": "^0.112.0",
     "http-proxy-middleware": "^0.20.0",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
@@ -15,6 +16,7 @@
     "styled-components": "^4.4.1"
   },
   "scripts": {
+    "flow": "flow",
     "start": "run-p --race dev:firebase dev:react",
     "dev:firebase": "firebase serve -p 4000",
     "dev:react": "craco start",
