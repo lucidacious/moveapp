@@ -9,10 +9,10 @@
     "craco-antd": "^1.14.1",
     "firebase": "^7.3.0",
     "flow-bin": "^0.112.0",
-    "http-proxy-middleware": "^0.20.0",
+    "http-proxy-middleware": "^3.0.3",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
-    "react-scripts": "3.2.0",
+    "react-scripts": "5.0.1",
     "styled-components": "^4.4.1"
   },
   "scripts": {
